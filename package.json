@@ -1,0 +1,23 @@
+{
+  "name": "vscode-ts-tslint-no-unused-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test OK!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winston01/vscode-ts-tslint-no-unused-test.git"
+  },
+  "author": "Winston01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winston01/vscode-ts-tslint-no-unused-test/issues"
+  },
+  "homepage": "https://github.com/winston01/vscode-ts-tslint-no-unused-test#readme",
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.1"
+  }
+}
