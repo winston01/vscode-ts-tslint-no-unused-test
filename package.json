@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/winston01/vscode-ts-tslint-no-unused-test#readme",
   "devDependencies": {
+    "@types/minimist": "^1.2.0",
     "tslint": "^5.10.0",
     "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "moment": "^2.15.2"
   }
 }
